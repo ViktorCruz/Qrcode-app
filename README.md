@@ -28,7 +28,7 @@
 ![applicationapp](qrcode.png)
 
 
-# Access the application link here: https://viktorcruz.github.io/Qrcode-app/
+#### Access the application link here: https://viktorcruz.github.io/Qrcode-app/
 
 
 # Install (Privacy friendly)
