@@ -26,3 +26,37 @@
 * Supports multiple use cases: links, short messages, contact data, and more.
 
 ![applicationapp](qrcode.png)
+
+
+# Install 
+
+* Local service, running entirely on your machine.
+
+* In your machine, clone the repository using the following command: `git clone https://github.com/ViktorCruz/Qrcode-app.git`
+
+* After cloning, go to the directory and run the command `live-server`.
+
+* (If you don’t have live-server installed, you can install it using the following command:)
+
+### update 
+
+* `sudo apt update`
+
+### install nodejs 
+  
+* `sudo apt install nodejs npm`
+
+### Install live-server 
+
+* `npm install -g live-server`
+
+### running 
+
+* `live-server`
+
+* You should see something like ‘[http://127.0.0.1:8080/’.”](http://127.0.0.1:8080/’.”)
+
+
+
+
+
