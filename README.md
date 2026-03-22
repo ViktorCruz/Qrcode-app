@@ -28,7 +28,7 @@
 ![applicationapp](qrcode.png)
 
 
-# Install 
+# Install (Privacy friendly)
 
 * Local service, running entirely on your machine.
 
