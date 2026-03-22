@@ -28,6 +28,9 @@
 ![applicationapp](qrcode.png)
 
 
+# Access the application link here: https://viktorcruz.github.io/Qrcode-app/
+
+
 # Install (Privacy friendly)
 
 * Local service, running entirely on your machine.
